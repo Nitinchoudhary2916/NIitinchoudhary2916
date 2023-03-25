@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Nitinchoudhary2916/NIitinchoudhary2916/blob/main/Banner.webp)
 <h1 align="center">Hi 👋, I'm Nitin Choudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
